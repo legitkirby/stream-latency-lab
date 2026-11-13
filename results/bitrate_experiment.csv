@@ -1,0 +1,4 @@
+bitrate_requested_kbps,video_kbps_actual,total_kbps,avg_qp_p,fps,speed
+300,277,357.5,5.1,30,1.01
+2500,823,902.8,0.4,30,1.01
+6000,828,907.7,0.2,30,1.01
